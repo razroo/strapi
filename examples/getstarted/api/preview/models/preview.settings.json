@@ -11,6 +11,9 @@
   "attributes": {
     "text": {
       "type": "richtext"
+    },
+    "json": {
+      "type": "json"
     }
   }
 }
